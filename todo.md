@@ -1,6 +1,6 @@
 # Todo
 
-- [x] This is an example of a todo list item that's complete
+- [x] Edit on my iPad
 - [x] Todo lists are useful for keeping organised and focused
 - [x] This one is not completed yet
 - [x] You can mark it completed by pressing `Option`+`C` (or `Alt`+`C`) when your cursor is on this line

@@ -5,6 +5,8 @@
 Having read [[hell-yeah-or-no]] and [[so-good-they-cant-ignore-you]] over the weekend:
 
 - I need people to support in their goals! (My: Why are you doing?)
+  - Help people reach benefits by using digital solutions.
+  - We unlock business opportunities with design and technology. (edenspiekermann)
 - Where do we find people I can be a help to?
 - How good is my career capital today? Seems not to good.
   - Who can even evaluate it?
@@ -15,6 +17,19 @@ Having read [[hell-yeah-or-no]] and [[so-good-they-cant-ignore-you]] over the we
 - Don't start a business until people are asking you to!
   - That's what makes made it so weak at the moment.
   - Need to find the real demand: See above
+  
+Products:
+
+- I'm not really proud of any of the made it products. 
+  - Connect: Okish
+  - Ticketist: Actually quite ok, but only for exactly what it does
+  - Competic: Meh?
+  - Rentory: Still far from great
+
+This must result in:
+
+- More quality in development
+- More quality in frontend (-> Designer)
 
 ## 09.08.2020
 
